@@ -36,6 +36,7 @@ git clone https://github.com/HugoParada19/dotfiles
 
 ```sh
 cp -r ./.oh-my-zsh ~/ && cp ./zshrc ~/ && cp -r ./.config ~/
+source ~/.zshrc
 ```
 
 # GL HF
