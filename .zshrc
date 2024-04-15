@@ -91,6 +91,10 @@ alias ans='git add . && git status'
 alias clp='git clone'
 alias nr='norminette -R CheckForbiddenSourceHeader'
 alias ftc='./a.out'
+alias cm='git commit -m'
+alias pus='git push'
+alias czsh='vim ~/.zshrc'
+alias lwm='bash ~/libft-war-machine/grademe.sh'
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
