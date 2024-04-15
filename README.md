@@ -1,7 +1,7 @@
 # Hugo Parada's dotfiles
 ---
 
-NeoVim config by **[Fib](https://github.com/NoahPsight/.dotfiles)**, zsh config by **[Guilherme Freitas](https://github.com/GJaFreitas/dotfiles)** with some mods done by me.
+NeoVim config by **[Fib](https://github.com/NoahPsight/.dotfiles)**, zsh config by **[Guilherme Freitas (intra user: gjacome-)](https://github.com/GJaFreitas/dotfiles)** with some mods done by me.
 
 Thanks to both [Fib](https://github.com/NoahPsight) and [Guilherme Freitas](https://github.com/GJaFreitas)
 
@@ -40,3 +40,5 @@ source ~/.zshrc
 ```
 
 # GL HF
+
+**my intra user**: htrindad
