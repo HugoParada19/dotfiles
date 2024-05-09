@@ -86,7 +86,7 @@ alias vim='nvim'
 alias vi='nvim'
 alias nivm='nvim' # Lmao só porque eu escrevo mal o tempo todo
 alias ..='cd ..'
-alias 42cc='cc -Wall -Werror -Wextra'
+alias 42cc='cc -Wall -Werror -Wextra -O3'
 alias ans='git add . && git status'
 alias clp='git clone'
 alias nr='norminette -R CheckForbiddenSourceHeader'
@@ -96,6 +96,7 @@ alias cm='git commit -m'
 alias pus='git push'
 alias czsh='vim ~/.zshrc'
 alias lwm='bash ~/libft-war-machine/grademe.sh'
+alias ltt='cd ~/libftTester && make fclean && make'
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
@@ -123,3 +124,6 @@ alias lwm='bash ~/libft-war-machine/grademe.sh'
 
 export USER=htrindad
 export MAIL=htrindad@student.42lisboa.com
+
+export PATH=$PATH:$HOME/usr/bin:$HOME/.local/go/bin:$HOME/usr/bin
+export PYTHONPATH="$HOME/.local/lib/python3.10/site-packages:$PYTHONPATH"
