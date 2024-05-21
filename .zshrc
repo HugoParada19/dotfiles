@@ -94,9 +94,9 @@ alias nh='norminette -R CheckDefine'
 alias ftc='./a.out'
 alias cm='git commit -m'
 alias pus='git push'
+alias pul='git pull'
 alias czsh='vim ~/.zshrc'
-alias lwm='bash ~/libft-war-machine/grademe.sh'
-alias ltt='cd ~/libftTester && make fclean && make'
+alias testl='clp https://github.com/0x050f/libft-war-machine && clp https://github.com/Tripouille/libftTester && bash libft-war-machine/grademe.sh && bash libft-war-machine/grademe.sh && libftTester && make && make fclean && ..'
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
